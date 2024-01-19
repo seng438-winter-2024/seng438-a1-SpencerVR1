@@ -2,12 +2,12 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group: Group Number      |
+| Group: 1     |
 |-----------------|
-| Student 1 name                |   
-| Student 2 name              |   
-| Student 3 name               |   
-| Student 4 name                |   
+| Harris Hasnain               |   
+| Houssem Zaggar             |   
+| Spencer van Roessel               |   
+| Kaylyn Tanton               |   
 
 
 **Table of Contents**
