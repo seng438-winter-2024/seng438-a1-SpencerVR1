@@ -54,7 +54,7 @@ Text…
 
 # How the pair testing was managed and team work/effort was divided 
 
-Text…
+Our team divided into two pairs of two and performed pair testing for the exploratory and manual scripted testing. For pair testing one team member worked on the keyboard and performed tests to find bugs while the other team member would record the found bugs. Both pairs switched roles halfway through each section of testing. Each pair performed their own exploratory testing and performed all 40 manual scripted tests, comparing it to their own found bugs from the exploratory section. For regression testing, the 4 team members equally divided all of our bugs that we discovered and the manual scripted tests and tested individually.
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
