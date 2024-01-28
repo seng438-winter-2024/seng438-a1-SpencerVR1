@@ -33,12 +33,13 @@ learned	1](#_Toc439194682)
 
 # Introduction
 
-An introduction of your lab work, and what you knew about exploratory and manual
-functional testing before this lab
+An introduction of your lab work, and what you 
+
+we knew little about exploratory and manual functional testing before this lab
 
 # High-level description of the exploratory testing plan
 
-Text…
+In our exploratory plan, we wanted to focus on functions that involve user interaction and are crucial for basic functionality because they have the highest impact. For a basic ATM system like this, we found it best to test a few functions extensively. This included card inputs, deposits, withdrawals, and balance inquiries. From these functionalities, we opted for a risk-based approach where critical functionalities like deposits, and withdrawals were prioritized first. We planned on starting by testing the most common paths. Then, we aimed to complete test cases for exceptional paths like invalid inputs, exceeding transaction limits, and other error conditions. 
 
 # Comparison of exploratory and manual functional testing
 
