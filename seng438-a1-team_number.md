@@ -59,8 +59,10 @@ Our team was divided into two pairs and performed pair testing for the explorato
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
-Text…
+Although the testing and bug detection process was very straightforward, there were times when it was difficult to determine whether something was a bug or simply a poor feature of the program. For example, when a user entered an incorrect pin, then the correct pin on a second attempt, they would have to enter the pin a third time to be able to login. We were unable to determine at first whether this was meant to act as an extra security feature, or a bug. Ultimately, we came to the conclusion that it was not intended as a user entering the correct pin once should be enough for them to gain access. Something that proved to be a challenge was ensuring we tested every possible outcome in the program during the exploratory phase, so that we did not miss any hidden errors. Although the program was relatively small, covering every possible outcome required a significant amount of effort, going back, and reporting to document. From this challenge, a lesson we learned was the importance of making sure that all possible routes through the program are covered during testing, as it can be easier to glance over or miss certain specific paths that could lead to fatal errors for users.
+
 
 # Comments/feedback on the lab and lab document itself
 
-Text…
+Overall, the content of this lab was very informative in demonstrating the importance of extensive software testing, making sure that all program outcomes work as expected to provide the best experience to the user. It was helpful in teaching effective testing methods, such as manual, exploratory and regression through practice, and familiarizing ourselves with issue tracking software like Jira. In the future however, we believe that it would these labs would be simpler to understand if the handouts were laid out in a more efficient manner, such as an actual pdf document that more distinctly separates the lab into a few clear sections (lab summary and deliverables, then instructions, etc) in an organized manner. This was not a massive inconvenience however by any means, and the lab itself was still very helpful and efficient to complete.
+
