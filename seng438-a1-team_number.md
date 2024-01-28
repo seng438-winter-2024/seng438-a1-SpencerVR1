@@ -50,7 +50,7 @@ Overall, neither testing strategy was flawless. The combination of both, along w
 
 # Notes and discussion of the peer reviews of defect reports
 
-Text…
+The exploratory testing process that both pairs performed ended up being very similar. We all found the same bugs, but reported some slightly differently. For example, one pair found a bug with the log showing a successful balance inquiry; however, the balance inquiry actually gave an error on the screen. The other pair found the same error with the balance inquiry, but did not report the log error as its own separate bug. We discussed those minor differences as a group when we peer reviewed each others defect reports. 
 
 # How the pair testing was managed and team work/effort was divided 
 
